@@ -129,3 +129,19 @@ section{
 	flex-wrap: wrap;
 	justify-content: space-between;
 }
+.card_tit {
+    color: #AD343E;
+    font-family: 'DM Sans', arial, sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .card{
+	padding: 35px 45px;
+    max-width: 416px;
+    height: 408px;
+    border-radius: 12px;
+    background: var(--Neutral-02, #F9F9F7);
+	line-height: 30px;
+  }
+  
